@@ -1,6 +1,6 @@
 # 🚀 Systems Programming & Computer Engineering Journey
 
-Welcome to my core logic repository! I am currently a 1st-year Computer Engineering student. I am pursuing a fully self-directed path to master low-level memory layout, systems logic, and architectural optimizatio
+Welcome to my core logic repository! I am currently a Computer Engineering student. I am pursuing a fully self-directed path to master low-level memory layout, systems logic, and architectural optimizatio
 
 ## 💻 Tech Stack & Work Environment
 * **Language Focus:** Modern C++ (Pointers, Memory Allocation, Algorithm Structures)
